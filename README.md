@@ -1,6 +1,6 @@
-Everywhere Dash:
+Genetry Dash:
 
-An attempt to run accurate Geometry dash on the web to play anywhere, everywhere! 
+An attempt to run accurate Geometry dash on the web! 
 
 Created by Sotospro24.
 
@@ -24,3 +24,4 @@ Big thanks to Kouzeru in scratch for the physics!
 Finally finished the TODO list, now i will be looking for bugs and new features to add,and i can finally get some sleep.
 
 
+Update: Its time for EverywhereDash V2 , and will be renamed to GenetryDash
