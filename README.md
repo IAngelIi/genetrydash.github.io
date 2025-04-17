@@ -1,4 +1,4 @@
-# Genetry Dash:
+# Ge-NET-ry Dash:
 (previously known as everywhere dash)
 
 An attempt to run accurate Geometry dash on the web! 
