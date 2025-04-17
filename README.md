@@ -19,5 +19,7 @@ Play without a menu or endscreen (for low-end devices): [HERE](https://genetryda
 
 Play OLD: [HERE](https://genetrydash.github.io/OLD/index.html) , Turbowarp OLD: [HERE](https://genetrydash.github.io/OLD/index1.html)
 
+# Credit
+
 Big thanks to [Kouzeru](https://scratch.mit.edu/users/Kouzeru/) in scratch for the physics!
 
