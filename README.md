@@ -3,11 +3,11 @@
 
 An attempt to run accurate Geometry dash on the web! 
 
-Created by Sotospro24.
-
 This works with scratch but not the griffpatch one, this one is a 1:1 exact and accurate replica of the real game, in scratch with some modifications from turbowarp!
 
 # Play:
+
+### Current version is v1.3.1c
 
 Play: [HERE](https://genetrydash.github.io)
 
@@ -23,3 +23,4 @@ Play OLD: [HERE](https://genetrydash.github.io/OLD/index.html) , Turbowarp OLD: 
 
 Big thanks to [Kouzeru](https://scratch.mit.edu/users/Kouzeru/) in scratch for the physics!
 
+Created by Sotospro24 (me)
