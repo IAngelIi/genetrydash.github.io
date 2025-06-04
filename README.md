@@ -21,6 +21,6 @@ Play OLD: [HERE](https://genetrydash.github.io/OLD/index.html) , Turbowarp OLD: 
 
 # Credit
 
-Big thanks to [Kouzeru](https://scratch.mit.edu/users/Kouzeru/) in scratch for the physics!
+Big thanks to [Kouzeru](https://scratch.mit.edu/users/Kouzeru/) in scratch for the physics! (and basically like 70% of the game)
 
-Created by Sotospro24 (me)
+The rest was created by Sotospro24 (me)
